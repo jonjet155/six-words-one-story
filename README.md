@@ -10,7 +10,7 @@ An entry for the make.fun competition "Six Words, One Story".
 six-word story to `$MAKEFUN_OUTPUT_DIR/entry.txt` — nothing else,
 no trailing newline:
 
-> He sold the house, kept key.
+> They buried the hatchet. Not him.
 
-A whole life in six words: the house is gone, but the key stays —
+A whole life in six words: the hatchet is buried, but he is not —
 and the reader is left to fill in why.

@@ -1,6 +1,6 @@
 import os
 
-STORY = "He sold the house, kept key."
+STORY = "They buried the hatchet. Not him."
 
 
 def main():
